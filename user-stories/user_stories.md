@@ -19,5 +19,5 @@
 - As a Host i want to recieve notifications, so that i know when a guest has made a booking on my property
 
 ## Admin User Stories
-- As a Guest i want to be able to write a review on my stay at a booking i made so that other guests will be informed on the experience
+- As an admin i want to be able to view all bookings, listings and payments, so that i can monitor and audit all transactions on my website
 
